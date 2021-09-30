@@ -1,0 +1,16 @@
+C:\Users\pirgi_8m51456\source\repos\LoopsANdRandomNumbers\GuessingGameThreeTimes\bin\Debug\net5.0\GuessingGameThreeTimes.exe
+C:\Users\pirgi_8m51456\source\repos\LoopsANdRandomNumbers\GuessingGameThreeTimes\bin\Debug\net5.0\GuessingGameThreeTimes.deps.json
+C:\Users\pirgi_8m51456\source\repos\LoopsANdRandomNumbers\GuessingGameThreeTimes\bin\Debug\net5.0\GuessingGameThreeTimes.runtimeconfig.json
+C:\Users\pirgi_8m51456\source\repos\LoopsANdRandomNumbers\GuessingGameThreeTimes\bin\Debug\net5.0\GuessingGameThreeTimes.runtimeconfig.dev.json
+C:\Users\pirgi_8m51456\source\repos\LoopsANdRandomNumbers\GuessingGameThreeTimes\bin\Debug\net5.0\GuessingGameThreeTimes.dll
+C:\Users\pirgi_8m51456\source\repos\LoopsANdRandomNumbers\GuessingGameThreeTimes\bin\Debug\net5.0\ref\GuessingGameThreeTimes.dll
+C:\Users\pirgi_8m51456\source\repos\LoopsANdRandomNumbers\GuessingGameThreeTimes\bin\Debug\net5.0\GuessingGameThreeTimes.pdb
+C:\Users\pirgi_8m51456\source\repos\LoopsANdRandomNumbers\GuessingGameThreeTimes\obj\Debug\net5.0\GuessingGameThreeTimes.csproj.AssemblyReference.cache
+C:\Users\pirgi_8m51456\source\repos\LoopsANdRandomNumbers\GuessingGameThreeTimes\obj\Debug\net5.0\GuessingGameThreeTimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pirgi_8m51456\source\repos\LoopsANdRandomNumbers\GuessingGameThreeTimes\obj\Debug\net5.0\GuessingGameThreeTimes.AssemblyInfoInputs.cache
+C:\Users\pirgi_8m51456\source\repos\LoopsANdRandomNumbers\GuessingGameThreeTimes\obj\Debug\net5.0\GuessingGameThreeTimes.AssemblyInfo.cs
+C:\Users\pirgi_8m51456\source\repos\LoopsANdRandomNumbers\GuessingGameThreeTimes\obj\Debug\net5.0\GuessingGameThreeTimes.csproj.CoreCompileInputs.cache
+C:\Users\pirgi_8m51456\source\repos\LoopsANdRandomNumbers\GuessingGameThreeTimes\obj\Debug\net5.0\GuessingGameThreeTimes.dll
+C:\Users\pirgi_8m51456\source\repos\LoopsANdRandomNumbers\GuessingGameThreeTimes\obj\Debug\net5.0\ref\GuessingGameThreeTimes.dll
+C:\Users\pirgi_8m51456\source\repos\LoopsANdRandomNumbers\GuessingGameThreeTimes\obj\Debug\net5.0\GuessingGameThreeTimes.pdb
+C:\Users\pirgi_8m51456\source\repos\LoopsANdRandomNumbers\GuessingGameThreeTimes\obj\Debug\net5.0\GuessingGameThreeTimes.genruntimeconfig.cache
